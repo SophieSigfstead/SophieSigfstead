@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SophieSigfstead
 - I’m interested in Machine Learning and Data Science!
 - Connect with me on LinkedIn: www.linkedin.com/in/sophiesigfstead
+- Check out my personal projects in my Projects repository. 
 
 
 <!---
