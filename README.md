@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SophieSigfstead
-- I’m interested in Machine Learning, Data Science and Software Engineering!
+- My main interest is AI-based health research! 
 - Connect with me on LinkedIn: www.linkedin.com/in/sophiesigfstead
-- Check out my personal projects in my Projects repository. 
 
 
 <!---
